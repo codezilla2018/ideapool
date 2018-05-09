@@ -11,3 +11,5 @@
 - `IA3` : php content generator library. If set of keywords are given post (title, content, image) needs to be generated using online feeds.
 
 - `IA4` : Nodejs twitter bot that tweets about latest movies with youtube trailer link. App will be deployed in heroku
+
+- `IA5` : Firefox plugin that generates Harvard style reference for current URL and detect the reference type eg :- blog, website, book, journal etc..
