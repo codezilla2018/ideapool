@@ -22,3 +22,5 @@ eg :- "Draw Bar_graph for DataSource:AA with (X:time,Y:count) " will draw a bar 
 - `IA8` : FB app or related profile based web application to keep tracks of details about your trips. Users can log into this application with their social profiles, every person have a full Map of Sri Lanka and highlighted pointers of their visits. Also we can add route details. Every traveler will maintain this profile and it will show that how good he as a traveler.  
 
 - `IA9` : Simple fitness android app that displays healthy tips from twitter stream daily and displays estimated calories burnt by analyzing foot step count
+
+- `IA10` : Twitter Slideshow for events. Tweets added with specific hashtag(can be changed) will be displayed in large screen as modern slideshow. Also slider theme needs to be changed according to the tweeter’s default color theme.
