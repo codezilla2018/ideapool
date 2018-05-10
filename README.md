@@ -20,3 +20,5 @@ eg :- "Draw Bar_graph for DataSource:AA with (X:time,Y:count) " will draw a bar 
 - `IA7` : A simple shareable Buisness card for your mobile phone(mobile app). Design a simple buisness card that can share with near by users through the wifi (something like shareIT app). It will allows to know about each others share your profile with others. It would be good to keep it as very similar to a buisness card but in a virtual space.   
 
 - `IA8` : FB app or related profile based web application to keep tracks of details about your trips. Users can log into this application with their social profiles, every person have a full Map of Sri Lanka and highlighted pointers of their visits. Also we can add route details. Every traveler will maintain this profile and it will show that how good he as a traveler.  
+
+- `IA9` : Simple fitness android app that displays healthy tips from twitter stream daily and displays estimated calories burnt by analyzing foot step count
