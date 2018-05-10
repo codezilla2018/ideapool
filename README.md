@@ -26,3 +26,6 @@ eg :- "Draw Bar_graph for DataSource:AA with (X:time,Y:count) " will draw a bar 
 - `IA10` : Twitter Slideshow for events. Tweets added with specific hashtag(can be changed) will be displayed in large screen as modern slideshow. Also slider theme needs to be changed according to the tweeter’s default color theme.
 
 - `IA11` : Domestic services android app with a map. Users can search and get information about nearest domestic services (Very simple admin panel is needed to manage those services). Eg : Cleaning services nearby. Firebase for data storage and Google maps API for map rendering
+
+- `IA12` : Android app that creates contact in mobile after taking a photo of Business card, Or advertisement on newspaper. Quick actions need to be displayed like goto website, send sms , call and send an email. 
+
