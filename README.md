@@ -24,3 +24,5 @@ eg :- "Draw Bar_graph for DataSource:AA with (X:time,Y:count) " will draw a bar 
 - `IA9` : Simple fitness android app that displays healthy tips from twitter stream daily and displays estimated calories burnt by analyzing foot step count
 
 - `IA10` : Twitter Slideshow for events. Tweets added with specific hashtag(can be changed) will be displayed in large screen as modern slideshow. Also slider theme needs to be changed according to the tweeter’s default color theme.
+
+- `IA11` : Domestic services android app with a map. Users can search and get information about nearest domestic services (Very simple admin panel is needed to manage those services). Eg : Cleaning services nearby. Firebase for data storage and Google maps API for map rendering
