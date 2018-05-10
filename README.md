@@ -29,3 +29,5 @@ eg :- "Draw Bar_graph for DataSource:AA with (X:time,Y:count) " will draw a bar 
 
 - `IA12` : Android app that creates contact in mobile after taking a photo of Business card, Or advertisement on newspaper. Quick actions need to be displayed like goto website, send sms , call and send an email. 
 
+- `IA13` : Simple work from home Android app. Each logged users can select and complete tasks which were added via the admin panel(Single login Web app with angular or bootstrap). Firebase can be used as cloud data storage service  
+
